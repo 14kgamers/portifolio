@@ -9,7 +9,7 @@ export default function HeaderSection (){
     const words = [
       
         {
-          text: "hi,",
+          text: "Hi,",
           className: "text-blue-500 dark:text-blue-500",
 
         },
@@ -34,12 +34,12 @@ export default function HeaderSection (){
 
         },
         {
-            text: "fullstack",
+            text: "FullStack",
           className: "text-blue-500 dark:text-blue-500",
 
         },
         {
-            text: "developer",
+            text: "Developer",
           className: "text-blue-500 dark:text-blue-500",
 
         },
