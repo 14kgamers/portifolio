@@ -5,7 +5,7 @@ import { Timeline } from "@/components/ui/timeline";
 export function TimelineSection() {
   const data = [
     {
-      title: "november 2021",
+      title: "November 2021",
       content: (
         <div>
           <h1 className="text-3xl">
@@ -22,7 +22,7 @@ export function TimelineSection() {
       ),
     },
     {
-      title: "april 2024 - NOW",
+      title: "April 2024 - NOW",
       content:
       ( 
         <div>
@@ -34,7 +34,7 @@ export function TimelineSection() {
             ✅  VLAN Modification <br /> 
             ✅  Account Management <br /> 
             ✅  User Support | Manipulation of user and device access<br /> 
-            ✅Suport N1 (ServiceNow | BPA | IJCore | SAP| Ivanti NDC| DHCP | DNS | Citrix)<br /> 
+            ✅  Support N1 (ServiceNow | BPA | IJCore | SAP| Ivanti NDC| DHCP | DNS | Citrix)<br /> 
           </p>
         </div>
       )
