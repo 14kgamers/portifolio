@@ -23,7 +23,7 @@ csharp
 Copiar
 Editar
 portifolio-main/
-├── components/        # Componentes reutilizáveis da interface
+├── components/         Componentes reutilizáveis da interface
 ├── pages/             # Páginas do site
 ├── public/            # Arquivos estáticos
 ├── styles/            # Estilos globais e utilitários
