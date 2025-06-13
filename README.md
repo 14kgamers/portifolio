@@ -23,13 +23,13 @@ csharp
 Copiar
 Editar
 portifolio-main/
-├── components/         Componentes reutilizáveis da interface
-├── pages/             # Páginas do site
-├── public/            # Arquivos estáticos
-├── styles/            # Estilos globais e utilitários
-├── tailwind.config.ts # Configuração do Tailwind CSS
-└── tsconfig.json      # Configuração do TypeScript
-🛠️ Scripts
+- ├── components/        # Componentes reutilizáveis da interface
+- ├── pages/             # Páginas do site
+- ├── public/            # Arquivos estáticos
+- ├── styles/            # Estilos globais e utilitários
+- ├── tailwind.config.ts # Configuração do Tailwind CSS
+- └── tsconfig.json      # Configuração do TypeScript
+-🛠️ Scripts
 npm run dev — Inicia o servidor de desenvolvimento.
 
 npm run build — Compila a aplicação para produção.
