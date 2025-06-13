@@ -29,7 +29,8 @@ portifolio-main/
 - ├── styles/            # Estilos globais e utilitários
 - ├── tailwind.config.ts # Configuração do Tailwind CSS
 - └── tsconfig.json      # Configuração do TypeScript
--🛠️ Scripts
+
+# 🛠️ Scripts
 npm run dev — Inicia o servidor de desenvolvimento.
 
 npm run build — Compila a aplicação para produção.
